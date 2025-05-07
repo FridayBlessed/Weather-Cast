@@ -6,7 +6,7 @@
 }
 
 body {
-    background: white;
+    background: linear-gradient(to bottom, #89CFF0, #ffffff); 
     display: flex;
     flex-direction: column;
     align-items: center; /* Centering the content horizontally */
