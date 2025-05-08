@@ -246,3 +246,7 @@ body {
     transition: transform 0.2s ease-in-out;
     color: pink;
 }
+
+#search-button:hover {
+    color: hotpink ;
+}
