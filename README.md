@@ -8,8 +8,7 @@ A very simple and responsive Weather Application that provides real-time weather
 - 🔍 Search weather by city name
 - 🌡️ Displays temperature in Celsius 
 - 💧 Humidity, and wind speed, 
-- 🌇 Beautiful and dynamic UI based on weather conditions
-- 📱 Fully responsive design for mobile and desktop
+- 📱  Responsive design for mobile and desktop
 
 ## 🛠️ Tech Stack
 
