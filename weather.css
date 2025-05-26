@@ -31,7 +31,7 @@ body {
 .card {
     width: 90%;
     max-width: 500px;
-    background: linear-gradient(135deg, #FF6A00, #9F44D3);
+    background: linear-gradient(to bottom, black, gray);
     color: #fff;
     margin-top: 20px;
     border-radius: 20px;
@@ -247,6 +247,4 @@ body {
     color: pink;
 }
 
-#search-button:hover {
-    color: hotpink ;
-}
+
